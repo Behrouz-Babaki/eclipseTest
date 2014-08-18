@@ -19,5 +19,9 @@ public class Other {
 	public void incrementVal() {
 		this.val++;
 	}
+	
+	public void decrementVal() {
+		this.val--;
+	}
 
 }
