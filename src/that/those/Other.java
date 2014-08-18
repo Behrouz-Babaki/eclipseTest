@@ -1,7 +1,7 @@
 package that.those;
 
 public class Other {
-	int val;
+	private int val;
 
 	public int getVal() {
 		return val;
