@@ -15,4 +15,9 @@ public class Other {
 		super();
 		this.val = va;
 	}
+
+	public void incrementVal() {
+		this.val++;
+	}
+
 }
